@@ -1,4 +1,6 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+## Find the article on Meidum 
+ Open [https://medium.com/@nikhil.cse16/next-js-for-absolute-beginners-a-mobile-developers-journey-into-web-development-84ae3727d302]
 
 ## Getting Started
 
