@@ -8,5 +8,6 @@ export default function ScalePage(){
               imageAlt='scale to measure the cons and pros'
               title = "Scale to measure  for cloud hosting"
               />
+              
     )
 }
